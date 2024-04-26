@@ -1,0 +1,65 @@
+[
+  {
+    "name":"Mercury",
+    "description":"Mercury's surface temperatures are both extremely hot and cold. Because the planet is so close to the Sun, day temperatures can reach highs of 800°F (430°C). Without an atmosphere to retain that heat at night, temperatures can dip as low as -290°F (-180°C).",
+    "image":"assets/image/p5.png",
+    "distance_sun":"57,900,000",
+    "gravity":37.8
+  },
+  {
+    "name":"Venus",
+    "description":"Venus is the second planet from the Sun, and Earth's closest planetary neighbor. Venus is the third brightest object in the sky after the Sun and Moon. Venus spins slowly in the opposite direction from most planets.\n\nVenus is similar in structure and size to Earth, and is sometimes called Earth's evil twin. Its thick atmosphere traps heat in a runaway greenhouse effect, making it the hottest planet in our solar system with surface temperatures hot enough to melt lead. Below the dense, persistent clouds, the surface has volcanoes and deformed mountains.",
+    "image":"assets/image/p8.png",
+    "distance_sun":"108,200,000",
+    "gravity":90.7
+  },
+  {
+    "name":"Earth",
+    "description":"While Earth is only the fifth largest planet in the solar system, it is the only world in our solar system with liquid water on the surface. Just slightly larger than nearby Venus, Earth is the biggest of the four planets closest to the Sun, all of which are made of rock and metal.\n\nEarth is the only planet in the solar system whose English name does not come from Greek or Roman mythology. The name was taken from Old English and Germanic. It simply means \"the ground.\" There are, of course, many names for our planet in the thousands of languages spoken by the people of the third planet from the Sun.",
+    "image":"assets/image/p4.png",
+    "distance_sun":"149,600,000",
+    "gravity":9.8
+  },
+  {
+    "name":"Mars",
+    "description":"Mars is one of the most explored bodies in our solar system, and it's the only planet where we've sent rovers to roam the alien landscape. NASA missions have found lots of evidence that Mars was much wetter and warmer, with a thicker atmosphere, billions of years ago.\n\nMars was named by the Romans for their god of war because its reddish color was reminiscent of blood. The Egyptians called it \"Her Desher,\" meaning \"the red one.\"",
+    "image":"assets/image/p1.png",
+    "distance_sun":"227,900,000",
+    "gravity":37.7
+  },
+  {
+    "name":"Jupiter",
+    "description":"Jupiter's signature stripes and swirls are actually cold, windy clouds of ammonia and water, floating in an atmosphere of hydrogen and helium. The dark orange stripes are called belts, while the lighter bands are called zones, and they flow east and west in opposite directions. Jupiter’s iconic Great Red Spot is a giant storm bigger than Earth that has raged for hundreds of years.",
+    "image":"assets/image/p6.png",
+    "distance_sun":"778,300,000",
+    "gravity":236.4
+  },
+  {
+    "name":"Saturn",
+    "description":"Like fellow gas giant Jupiter, Saturn is a massive ball made mostly of hydrogen and helium. Saturn is not the only planet to have rings, but none are as spectacular or as complex as Saturn's. Saturn also has dozens of moons.\n\nFrom the jets of water that spray from Saturn's moon Enceladus to the methane lakes on smoggy Titan, the Saturn system is a rich source of scientific discovery and still holds many mysteries.",
+    "image":"assets/image/p7.png",
+    "distance_sun":"1,427,000,000",
+    "gravity":106.4
+  },
+  {
+    "name":"Uranus",
+    "description":"Uranus is a very cold and windy world. The ice giant is surrounded by 13 faint rings and 28 small moons. Uranus rotates at a nearly 90-degree angle from the plane of its orbit. This unique tilt makes Uranus appear to spin sideways, orbiting the Sun like a rolling ball.\n\nUranus was the first planet found with the aid of a telescope. It was discovered in 1781 by astronomer William Herschel, although he originally thought it was either a comet or a star. It was two years later that the object was universally accepted as a new planet, in part because of observations by astronomer Johann Elert Bode.",
+    "image":"assets/image/p9.png",
+    "distance_sun":"2,870,000,000",
+    "gravity":88.9
+  },
+  {
+    "name":"Neptune",
+    "description":"ark, cold, and whipped by supersonic winds, ice giant Neptune is more than 30 times as far from the Sun as Earth. Neptune is the only planet in our solar system not visible to the naked eye. In 2011 Neptune completed its first 165-year orbit since its discovery in 1846.\n\nNeptune is so far from the Sun that high noon on the big blue planet would seem like dim twilight to us. The warm light we see here on our home planet is roughly 900 times as bright as sunlight on Neptune.",
+    "image":"assets/image/p2.png",
+    "distance_sun":"4,497,000,000",
+    "gravity":112.5
+  },
+  {
+    "name":"Pluto",
+    "description":"Pluto is a complex and mysterious world with mountains, valleys, plains, craters, and glaciers. It is located in the distant Kuiper Belt.\n\nPluto is orbited by five known moons, the largest of which is Charon. Charon is about half the size of Pluto itself, making it the largest satellite relative to the planet it orbits in our solar system. Pluto and Charon are often referred to as a \"double planet.",
+    "image":"assets/image/p10.png",
+    "distance_sun":"5,9000,000,000",
+    "gravity":6.7
+  }
+]
